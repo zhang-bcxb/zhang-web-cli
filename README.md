@@ -1,3 +1,9 @@
+- 相关学习资料
+```
+【番外：制作你自己的cli脚手架-哔哩哔哩】 https://b23.tv/ILYxC0g
+cli代码：https://github.com/XingXiaoWu/wxplatform-cli
+template模板：https://github.com/XingXiaoWu/template-vue
+```
 
 - npm 安装使用
 
